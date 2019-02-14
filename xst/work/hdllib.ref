@@ -1,0 +1,14 @@
+AR ila ila_a /home/student1/h3kamal/coe758/CacheController/ipcore_dir/ila.vhd sub00/vhpl13 1509464730
+EN cachecontroller NULL /home/student1/h3kamal/coe758/CacheController/CacheController.vhd sub00/vhpl04 1509464731
+AR icon icon_a /home/student1/h3kamal/coe758/CacheController/ipcore_dir/icon.vhd sub00/vhpl09 1509464728
+EN sdramcontroller NULL /home/student1/h3kamal/coe758/CacheController/SDRAMController.vhd sub00/vhpl02 1509464723
+EN icon NULL /home/student1/h3kamal/coe758/CacheController/ipcore_dir/icon.vhd sub00/vhpl08 1509464727
+EN cpu_gen NULL /home/student1/h3kamal/coe758/CacheController/CPU_gen.vhd sub00/vhpl00 1509464721
+EN sram NULL /home/student1/h3kamal/coe758/CacheController/ipcore_dir/SRAM.vhd sub00/vhpl06 1509464725
+AR sram sram_a /home/student1/h3kamal/coe758/CacheController/ipcore_dir/SRAM.vhd sub00/vhpl07 1509464726
+AR cachecontroller behavioral /home/student1/h3kamal/coe758/CacheController/CacheController.vhd sub00/vhpl05 1509464732
+AR cpu_gen behavioral /home/student1/h3kamal/coe758/CacheController/CPU_gen.vhd sub00/vhpl01 1509464722
+EN vio NULL "/media/0AE8-77F0/Ryerson EE Account/COE758/CacheProject/CacheControllerProject/CACHE2/ipcore_dir/vio.vhd" sub00/vhpl10 1446418507
+AR sdramcontroller behavioral /home/student1/h3kamal/coe758/CacheController/SDRAMController.vhd sub00/vhpl03 1509464724
+AR vio vio_a "/media/0AE8-77F0/Ryerson EE Account/COE758/CacheProject/CacheControllerProject/CACHE2/ipcore_dir/vio.vhd" sub00/vhpl11 1446418508
+EN ila NULL /home/student1/h3kamal/coe758/CacheController/ipcore_dir/ila.vhd sub00/vhpl12 1509464729
